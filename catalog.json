@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fone-sem-fio",
+    "name": "Fone sem fio",
+    "category": "Tecnologia",
+    "emoji": "🎧",
+    "description": "Praticidade para ouvir seus conteúdos no dia a dia.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "suporte-celular",
+    "name": "Suporte para celular",
+    "category": "Acessórios",
+    "emoji": "📱",
+    "description": "Mais conforto para apoiar seu aparelho.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "luminaria-mesa",
+    "name": "Luminária de mesa",
+    "category": "Casa",
+    "emoji": "💡",
+    "description": "Iluminação funcional para seu espaço.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "carregador-portatil",
+    "name": "Carregador portátil",
+    "category": "Tecnologia",
+    "emoji": "🔋",
+    "description": "Energia extra para acompanhar sua rotina.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "organizador-multiuso",
+    "name": "Organizador multiuso",
+    "category": "Casa",
+    "emoji": "🧺",
+    "description": "Ajuda a manter seus ambientes organizados.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "bolsa-compacta",
+    "name": "Bolsa compacta",
+    "category": "Acessórios",
+    "emoji": "👜",
+    "description": "Um acessório versátil para o cotidiano.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "garrafa-termica",
+    "name": "Garrafa térmica",
+    "category": "Casa",
+    "emoji": "🥤",
+    "description": "Uma opção prática para levar sua bebida.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": "relogio-inteligente",
+    "name": "Relógio inteligente",
+    "category": "Tecnologia",
+    "emoji": "⌚",
+    "description": "Tecnologia e praticidade no pulso.",
+    "priceCents": null,
+    "stock": 0,
+    "active": true
+  }
+]
